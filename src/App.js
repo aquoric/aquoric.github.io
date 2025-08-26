@@ -166,7 +166,7 @@ export default function AquoricPortfolio() {
     {
       title: "aquo's ssing-tool",
       description: "Python-based anticheat tool for minecraft",
-      link: "#",
+      link: "https://github.com/aquoric/aquo-ssing-tool",
       icon: <Terminal className="h-5 w-5" />,
     },
     {
